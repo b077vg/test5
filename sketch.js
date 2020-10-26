@@ -1,4 +1,4 @@
-let w=300,h=300; //only 10 
+let w=410,h=728; //only 10 
 let img;
 let canvas;
 
